@@ -1,4 +1,4 @@
-// College List with Loop
+// College List without Loop
 
 import java.util.*;
 
